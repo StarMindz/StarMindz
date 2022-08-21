@@ -8,7 +8,7 @@ Nice to meet you
 - 🌱 I'm currently working on a Startup Health tech project called I-Health
 - 🌱 I’m currently learning at **Microverse** 
 - 👯 I’m looking to collaborate on AI, Blockchain, Health tech, Fintech, and basically any project that requires my skills
-- 🤔 I’m looking for help on projects that require skills in Html, CSS, Python, Javascript, React, Redux, Ruby on Rails, Tensorflow, Pytorch, 
+- 🤔 I’m looking to help on projects that require skills in Html, CSS, Python, Javascript, React, Redux, Ruby on Rails, Tensorflow, Pytorch, 
 - 💬 Ask me about tech. I'm a tech freak!! 
 - 😄 Feel free to say Hi. I don't bite😉🥂
 - ⚡ Fun fact: I play the piano and I'm a big fan of science fiction movies. Let's talk science, tech and business.
