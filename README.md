@@ -16,7 +16,19 @@ Nice to meet you
 <br>
 <h2> GitHub Statistics<h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=starmindz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt = "statistics" >
+
+## Commit Streak
+
+[![StarMindz's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=starmindz&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+
 <br>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starmindz&show_icons=true&theme=midnight-white&layout=compact">
+
+<br>
+
 <br>
 <br>
 <h2> Knowledge Base <h2>
@@ -75,10 +87,6 @@ Nice to meet you
 
 <br>
 <br>
-
-## Commit Streak
-
-[![StarMindz's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=starmindz&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 <br>
 <br>
