@@ -5,10 +5,11 @@ Nice to meet you
 <img src = 'https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif' alt = 'coding' width = '400px'>
 
 - 🔭 I’m currently available for hire and open to new job opportunities, send me a mail (stanleynnamani@gmail.com)
-- 🌱 I'm currently working on a Startup Health tech project called I-Health
-- 🌱 I’m currently learning at **Microverse** 
+- 🌱 I'm currently contributing to several Startup projects including Harchive, Unitalk and Glycobuddy, all providing solutions for businesses and the society at large.
+- 🚀 I'm currently the Tech Lead at TEDxSamaru
+- 📖 I’m currently exploring on building efficient and production ready AI powered apps and systems.
 - 👯 I’m looking to collaborate on AI, Blockchain, Health tech, Fintech, and basically any project that requires my skills
-- 🤔 I’m looking to help on projects that require skills in Html, CSS, Python, Javascript, React, Redux, Ruby on Rails, Tensorflow, Pytorch, 
+- 🤔 I’m looking to help on projects that require skills in Html, CSS, Python, Javascript, React, Redux, Ruby on Rails, LLM's, Tensorflow, Pytorch, Langchain, Nextjs, Tailwind CSS.
 - 💬 Ask me about tech. I'm a tech freak!! 
 - 😄 Feel free to say Hi. I don't bite😉🥂
 - ⚡ Fun fact: I play the piano and I'm a big fan of science fiction movies. Let's talk science, tech and business.
